@@ -1,0 +1,11 @@
+pandas==0.25.3
+requests==2.19.1
+lightgbm==2.3.1
+hyperopt==0.2
+python-dotenv==0.10.3
+glob2==0.7
+workalendar==7.2.0
+schedule==0.6.0
+pygsheets==2.0.3.1
+hyperopt==0.2
+pymongo==3.8.0
